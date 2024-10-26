@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576529696 source:e:\documents\.projects\c++\matrix axb calculator\main.cpp
+	<iostream>
+	<conio.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574779581 source:e:\documents\.projects\c++\all prime numbers before x\main.cpp
+	<iostream>
+	<conio.h>
+

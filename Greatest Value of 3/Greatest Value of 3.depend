@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1573932840 source:e:\documents\.projects\c++\biggest mount\main.cpp
+	<iostream>
+	<conio.h>
+
+1574152898 source:e:\documents\.projects\c++\biggest value\main.cpp
+	<iostream>
+	<conio.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574272221 source:e:\documents\.projects\c++\fibunaci\main.cpp
+	<iostream>
+	<conio.h>
+

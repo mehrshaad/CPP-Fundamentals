@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578256147 source:e:\documents\.my things\codes\c++\array arrangment\main.cpp
+	<iostream>
+	<conio.h>
+	<iomanip>
+
